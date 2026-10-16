@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 /**
- * BcLpRecruitTheme : baserCMS 5 採用 LP テーマ
+ * BcLpRecruitTheme : baserCMS5 採用 LP テーマ
  */
 
 namespace BcLpRecruitTheme;

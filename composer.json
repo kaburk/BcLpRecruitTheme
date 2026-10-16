@@ -1,6 +1,6 @@
 {
     "name": "kaburk/bc-lp-recruit-theme",
-    "description": "Recruitment landing page theme for baserCMS 5",
+    "description": "Recruitment landing page theme for baserCMS5",
     "homepage": "https://blog.kaburk.com/",
     "type": "cakephp-plugin",
     "license": "MIT",

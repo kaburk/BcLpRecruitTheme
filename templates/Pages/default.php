@@ -1,6 +1,6 @@
 <?php
 /**
- * BcLpRecruitTheme : baserCMS 5 採用 LP テーマ
+ * BcLpRecruitTheme : baserCMS5 採用 LP テーマ
  *
  * 固定ページ（LP 本体）
  *

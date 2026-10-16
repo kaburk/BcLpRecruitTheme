@@ -1,6 +1,6 @@
 <?php
 /**
- * BcLpRecruitTheme : baserCMS 5 採用 LP テーマ
+ * BcLpRecruitTheme : baserCMS5 採用 LP テーマ
  *
  * お申し込みの手順（STEP 1 入力 → STEP 2 確認 → STEP 3 完了）
  *

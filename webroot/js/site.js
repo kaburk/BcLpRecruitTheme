@@ -1,5 +1,5 @@
 /**
- * BcLpRecruitTheme : baserCMS 5 採用 LP テーマ
+ * BcLpRecruitTheme : baserCMS5 採用 LP テーマ
  *
  * 共通 JS（jQuery 不要）
  * - SP メニューの開閉
