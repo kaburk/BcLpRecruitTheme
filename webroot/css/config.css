@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* BcLpRecruitTheme : baserCMS 5 採用 LP テーマ / テーマ設定の4色。保存時にプレースホルダが置き換わる（1行に1つだけ書く） */
+:root {
+	--theme-main: MAIN;
+	--theme-sub: SUB;
+	--theme-link: LINK;
+	--theme-hover: HOVER;
+}

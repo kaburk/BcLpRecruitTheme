@@ -1,0 +1,2 @@
+﻿id,description,thanks,unpublish,sender_1,sender_2,sender_name,subject_user,subject_admin,form_template,mail_template,redirect_url,auth_captcha,widget_area,ssl_on,save_info,publish_begin,publish_end,created,modified
+1,<p>必要事項をご入力のうえ、「入力内容を確認する」を押してください。</p>,"<p>内容を確認のうえ、3営業日以内に担当者よりご入力のメールアドレスへご連絡します。</p><p>確認メールが届かない場合は、お手数ですが recruit@example.com までお問い合わせください。</p>",,,,"サンプル株式会社 採用担当",【サンプル株式会社】お申し込みを受け付けました,【採用サイト】新しい応募・面談の申し込みがありました,default,mail_default,,,,,1,,,,
